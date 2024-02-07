@@ -1,4 +1,4 @@
-CPSC 42700 Project 1: Bash Port Scanner
+CPSC 42700: Bash Port Scanner
 Tommy Juricek
 2/52024
 

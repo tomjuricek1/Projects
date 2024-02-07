@@ -1,5 +1,5 @@
 #!/bin/bash
-#Thomas Juricek, CPSC 42700-001, 2/5/2024, Project 1
+#Thomas Juricek, 2/5/2024
 
 # timeout value
 default_timeout=2

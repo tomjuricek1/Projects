@@ -25,7 +25,7 @@ password1
 password2
 password3
 
-BREAKINBOX PASSWORDS
+BREAKINBOX PASSWORDS - Example VM is binbox_py3
 The passwords to the test VM accounts are:
 usera abc123
 userb baseball
